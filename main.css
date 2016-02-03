@@ -21,6 +21,7 @@ h2 {
 div img{
   display: block;
   margin: 0px auto;
+  max-width: 80%;
 }
 
 section > p:first-of-type {
