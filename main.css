@@ -1,9 +1,9 @@
 body {
-  max-width: 1440px;
+  width: 1440px;
 }
 
 article {
-  width: 30%;
+  width: 432px;
   border: 1px solid lightblue;
   display: inline-block;
   float: center;
