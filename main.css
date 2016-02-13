@@ -3,7 +3,7 @@ body {
 }
 
 article {
-  width: 432px;
+  width: 30%;
   border: 1px solid lightblue;
   display: inline-block;
   float: center;
